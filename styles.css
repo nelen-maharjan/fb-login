@@ -1,0 +1,86 @@
+body{
+    background: #fff;
+    color: #1c1e21;
+    direction: ltr;
+    line-height: 1.34;
+    margin: 0;
+    padding: 0;
+    
+}
+.container{
+    padding: 112px 0 16px;
+    width: 400px;
+    margin-left: 200px;
+}
+.fb{
+    color: #1877f2;
+    font-size: 60px;
+    height: 106px;
+    margin: 28px;
+    margin-bottom: 0px;
+}
+.fb-content{
+    margin-top: 0px;
+    font-size: 40px;
+    position: relative;
+    left: 25px;
+}
+form{
+    
+    border: 2px solid whitesmoke;
+    position: relative;
+    bottom: 330px;
+    float: right;
+    right: 100px;
+    border-radius: 6px;
+}
+.login-form{
+    font-size: 17px;
+    padding: 14px 16px;
+    
+
+}
+.username{
+    border: 1px solid #dddfe2;
+    color: #1d2129;
+    height: 50px;
+    width: 300px;
+    margin: 7px auto;
+    
+}
+.password{
+    border: 1px solid #dddfe2;
+    color: #1d2129;
+    height: 50px;
+    width: 300px;
+    margin: 7px auto;
+}
+.login{
+    background-color: #1877f2;
+    color: white;
+    width: 300px;
+    border: none;
+    border-radius: 6px;
+    height: 40px;
+    line-height: 2;
+    cursor: pointer;
+}
+
+.forgot-password{
+    color: #1877f2;
+    margin-left: 85px;
+}
+
+.new-account{
+    background-color: #42b72a;
+    color: white;
+    width: 200px;
+    border: none;
+    border-radius: 6px;
+    font-size: 17px;
+    height: 40px;
+    position: relative;
+    left: 50px;
+    cursor: pointer;
+}
+
